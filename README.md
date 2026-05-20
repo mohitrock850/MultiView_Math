@@ -229,7 +229,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ⭐ If you found this project helpful, please consider giving it a star!
 
-[![GitHub stars](https://img.shields.io/github/stars/your-repo/MultiView?style=social)](https://github.com/your-repo/MultiView)
-[![GitHub forks](https://img.shields.io/github/forks/your-repo/MultiView?style=social)](https://github.com/your-repo/MultiView/fork)
+[![GitHub stars](https://img.shields.io/github/stars/your-repo/MultiView_Math?style=social)](https://github.com/your-repo/MultiView_Math)
+[![GitHub forks](https://img.shields.io/github/forks/your-repo/MultiView_Math?style=social)](https://github.com/your-repo/MultiView_Math/fork)
 
 </div>
